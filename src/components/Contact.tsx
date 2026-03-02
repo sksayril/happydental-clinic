@@ -51,7 +51,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-bold text-gray-800 mb-1">Address</h4>
-                    <p className="text-sm md:text-base text-gray-600">123 Happy Street, Smile City, SC 12345</p>
+                    <p className="text-sm md:text-base text-gray-600">4th FLOOR, BESIDES AYURVEDIC COLLEGE, Infinity Tower, 405-406, Lal Darwaja Station Rd, Suryapur Gate, Varachha, Surat, Gujarat 395003</p>
                   </div>
                 </div>
 
